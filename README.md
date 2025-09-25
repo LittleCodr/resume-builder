@@ -2,7 +2,7 @@
 
 ![AI-Powered Resume Builder](https://www.jobhero.com/resources/wp-content/uploads/2025/01/resume-builder-hero-banner-update.png)
 
-I’m thrilled to share my latest project – an **AI-powered resume builder** that helps you create professional resumes effortlessly with real-time AI suggestions. 🎯
+I’m thrilled to share my latest project – an **AI-powered resume buislder** that helps you create professional resumes effortlessly with real-time AI suggestions. 🎯
 
 🔗 **Live Demo:** [Try It Here](https://resume-builder-gamma-lilac-30.vercel.app/)  
 💻 **GitHub Repo:** [View on GitHub](https://github.com/LittleCodr/resume-builder)
